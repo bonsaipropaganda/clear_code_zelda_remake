@@ -12,3 +12,5 @@ Main changes
 
 I have downloaded this on my personal computer (seth) with pycharm and am testing to
 see whether I can commit things. 
+
+# TODO: Get a basic black screen up and running
