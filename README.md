@@ -10,4 +10,5 @@ The art assets and the soundtrack have been done by Pixel-boy and AAA and can be
 
 Main changes
 
-Own is different
+I have downloaded this on my personal computer (seth) with pycharm and am testing to
+see whether I can commit things. 
